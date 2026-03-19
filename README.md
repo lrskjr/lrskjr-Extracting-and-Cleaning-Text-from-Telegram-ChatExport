@@ -1,2 +1,2 @@
 # Extracting and Cleaning Text from Telegram ChatExport
-This notebook parses all html files in Telegram chat export , extracts message metadata and text, cleans the text for analysis.
+This notebook parses all html files in Telegram chat export , extracts message metadata and text, cleans the text for analysis in for example Orange and Voyant.
